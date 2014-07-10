@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Camille sucks !</h2>
+<h2>Camille Sucks !</h2>
 </body>
 </html>
