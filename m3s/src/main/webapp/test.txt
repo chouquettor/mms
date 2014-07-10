@@ -7,8 +7,5 @@ ajout ligne  dfsdfsd
 dfsdfsfsdf
 sdfsdf
 	aazeerrtrtert
-<<<<<<< Upstream, based on branch 'master' of https://github.com/chouquettor/mms.git
 serveur
-=======
 local
->>>>>>> ffcf29b local
